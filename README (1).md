@@ -19,9 +19,9 @@ This project is the **direct analytical companion** to the [Azure Cloud Misconfi
 
 > **Watch the full walkthrough of the Threat Detection Dashboard in action:**
 
-[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](YOUR_YOUTUBE_LINK_HERE)
+[![Demo Video](https://img.shields.io/badge/▶_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/PwjSBuUQvc8)
 
-*(Replace `YOUR_YOUTUBE_LINK_HERE` with your unlisted YouTube video link)*
+*(https://youtu.be/PwjSBuUQvc8)*
 
 
 # Architecture Diagram
