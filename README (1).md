@@ -164,9 +164,9 @@ This dashboard is the threat visualization component associated with the followi
 
 > AUTONOMOUS CLOUD SECURITY POSTURE MANAGEMENT (ACSPM): An Event Driven Framwork For Real Time Misconfiguration Remedation
 > 
-> Mr.Sushanth Banuka
+> Mr. Sushanth Banuka
 >
-> (https://ijnrd.org/papers/IJNRD2603361.pdf)
+> https://ijnrd.org/papers/IJNRD2603361.pdf
 
 
 *Disclaimer: This tool is for educational and authorized security research purposes only. Ensure you have explicit permission before scanning any live Azure environment or performing IP reputation lookups.*
