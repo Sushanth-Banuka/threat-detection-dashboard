@@ -162,10 +162,11 @@ threat-detection-dashboard/
 
 This dashboard is the threat visualization component associated with the following research paper:
 
-> **Autonomous Cloud Security Posture Management (CSPM): An Event Driven Framework for Real Time Misconfiguration Remediation**
-> *Mr.Sushanth Banuka*
+> AUTONOMOUS CLOUD SECURITY POSTURE MANAGEMENT (ACSPM): An Event Driven Framwork For Real Time Misconfiguration Remedation
+> 
+> Mr.Sushanth Banuka
 >
-> *[Link to published paper / DOI — pending publication]*
+> (https://ijnrd.org/papers/IJNRD2603361.pdf)
 
 
 *Disclaimer: This tool is for educational and authorized security research purposes only. Ensure you have explicit permission before scanning any live Azure environment or performing IP reputation lookups.*
